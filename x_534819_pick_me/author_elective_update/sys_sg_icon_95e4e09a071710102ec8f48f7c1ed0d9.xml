@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="DELETE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"e93b","Name":"icon-Link1","FontColor":"#FFFFFF","BackgroundColor":"#2e2e2e","type":"user"}</icon>
+        <name>User Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 23:01:12</sys_created_on>
+        <sys_id>95e4e09a071710102ec8f48f7c1ed0d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_update_name>sys_sg_icon_95e4e09a071710102ec8f48f7c1ed0d9</sys_update_name>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-18 23:01:12</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</application>
+        <file_path/>
+        <instance_id>45d0014fdbb28c503050ac44d496190e</instance_id>
+        <instance_name>dev100204</instance_name>
+        <name>sys_sg_icon_95e4e09a071710102ec8f48f7c1ed0d9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon"><sys_sg_icon action="INSERT_OR_UPDATE"><icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"e93b","Name":"icon-Link1","FontColor":"#FFFFFF","BackgroundColor":"#2e2e2e","type":"user"}</icon><name>User Icon</name><sys_class_name>sys_sg_icon</sys_class_name><sys_created_by>Ncs</sys_created_by><sys_created_on>2020-09-18 23:01:12</sys_created_on><sys_id>95e4e09a071710102ec8f48f7c1ed0d9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>User Icon</sys_name><sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package><sys_policy/><sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope><sys_update_name>sys_sg_icon_95e4e09a071710102ec8f48f7c1ed0d9</sys_update_name><sys_updated_by>Ncs</sys_updated_by><sys_updated_on>2020-09-18 23:01:12</sys_updated_on><type>font</type></sys_sg_icon></record_update>]]></payload>
+        <payload_hash>-2070656192</payload_hash>
+        <record_name>User Icon</record_name>
+        <reverted_from/>
+        <source>a78047c6071310102ec8f48f7c1ed0ba</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 23:01:12</sys_created_on>
+        <sys_id>1de4e09a071710102ec8f48f7c1ed0db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174a3733b750000001</sys_recorded_at>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-18 23:01:12</sys_updated_on>
+        <type>Icon</type>
+        <update_guid>55e4e09af1171010cdcae07b28a225db</update_guid>
+        <update_guid_history>55e4e09af1171010cdcae07b28a225db:-2070656192</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 23:17:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_icon">sys_sg_icon</sys_db_object>
+        <sys_id>08543204997141c080499c4562e2c240</sys_id>
+        <sys_metadata>95e4e09a071710102ec8f48f7c1ed0d9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_scope_delete display_value="">27d59a0de974472d93b0f8bdb5ee3b19</sys_scope_delete>
+        <sys_update_name>sys_sg_icon_95e4e09a071710102ec8f48f7c1ed0d9</sys_update_name>
+        <sys_update_version display_value="sys_sg_icon_95e4e09a071710102ec8f48f7c1ed0d9">1de4e09a071710102ec8f48f7c1ed0db</sys_update_version>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-18 23:17:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

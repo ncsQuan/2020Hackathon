@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by>model</group_by>
+        <instance_relative_url_qc/>
+        <name>Unassigned Computers</name>
+        <query_condition table="alm_asset">model_category=81feb9c137101000deeabfc8bcbe5dc4^assigned_toISEMPTY<item display_table="cmdb_model_category" display_value="Computer" endquery="false" field="model_category" goto="false" newquery="false" operator="=" or="false" value="81feb9c137101000deeabfc8bcbe5dc4"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 19:14:21</sys_created_on>
+        <sys_id>eaf0734a079310102ec8f48f7c1ed0df</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Unassigned Computers</sys_name>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_update_name>sys_sg_data_item_eaf0734a079310102ec8f48f7c1ed0df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-19 16:02:24</sys_updated_on>
+        <table>alm_asset</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=eaf0734a079310102ec8f48f7c1ed0df"/>
+</record_update>

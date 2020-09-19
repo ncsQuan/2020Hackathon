@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="cbcf0b82075310102ec8f48f7c1ed0d5" sys_domain="global" table="x_534819_pick_me_unassignedcheck" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Ncs</sys_created_by>
+            <sys_created_on>2020-09-18 16:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07cfcf82075310102ec8f48f7c1ed08e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_534819_pick_me_unassignedcheck" name="x_534819_pick_me_unassignedcheck" sys_domain="global" view="Default view">cbcf0b82075310102ec8f48f7c1ed0d5</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_534819_pick_me_unassignedcheck" sys_domain="global" view="Default view">c3cfcf82075310102ec8f48f7c1ed08a</sys_ui_section>
+            <sys_updated_by>Ncs</sys_updated_by>
+            <sys_updated_on>2020-09-18 16:49:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Ncs</sys_created_by>
+            <sys_created_on>2020-09-18 16:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>03cfcf82075310102ec8f48f7c1ed095</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_534819_pick_me_unassignedcheck" name="x_534819_pick_me_unassignedcheck" sys_domain="global" view="Default view">cbcf0b82075310102ec8f48f7c1ed0d5</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="x_534819_pick_me_unassignedcheck" sys_domain="global" view="Default view">0bcfcf82075310102ec8f48f7c1ed08e</sys_ui_section>
+            <sys_updated_by>Ncs</sys_updated_by>
+            <sys_updated_on>2020-09-18 16:49:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Ncs</sys_created_by>
+            <sys_created_on>2020-09-18 16:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0bcfcf82075310102ec8f48f7c1ed085</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_534819_pick_me_unassignedcheck" name="x_534819_pick_me_unassignedcheck" sys_domain="global" view="Default view">cbcf0b82075310102ec8f48f7c1ed0d5</sys_ui_form>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_534819_pick_me_unassignedcheck" sys_domain="global" view="Default view">0fcf0b82075310102ec8f48f7c1ed0d8</sys_ui_section>
+            <sys_updated_by>Ncs</sys_updated_by>
+            <sys_updated_on>2020-09-18 16:49:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>Ncs</sys_created_by>
+            <sys_created_on>2020-09-18 16:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cfcfcf82075310102ec8f48f7c1ed089</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_534819_pick_me_unassignedcheck" name="x_534819_pick_me_unassignedcheck" sys_domain="global" view="Default view">cbcf0b82075310102ec8f48f7c1ed0d5</sys_ui_form>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_534819_pick_me_unassignedcheck" sys_domain="global" view="Default view">43cfcf82075310102ec8f48f7c1ed086</sys_ui_section>
+            <sys_updated_by>Ncs</sys_updated_by>
+            <sys_updated_on>2020-09-18 16:49:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>Ncs</sys_created_by>
+            <sys_created_on>2020-09-18 16:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83cfcf82075310102ec8f48f7c1ed098</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_534819_pick_me_unassignedcheck" name="x_534819_pick_me_unassignedcheck" sys_domain="global" view="Default view">cbcf0b82075310102ec8f48f7c1ed0d5</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_534819_pick_me_unassignedcheck" sys_domain="global" view="Default view">07cfcf82075310102ec8f48f7c1ed095</sys_ui_section>
+            <sys_updated_by>Ncs</sys_updated_by>
+            <sys_updated_on>2020-09-18 16:49:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_534819_pick_me_unassignedcheck</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Ncs</sys_created_by>
+            <sys_created_on>2020-09-18 16:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cbcf0b82075310102ec8f48f7c1ed0d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_534819_pick_me_unassignedcheck</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+            <sys_update_name>sys_ui_form_sections_cbcf0b82075310102ec8f48f7c1ed0d5</sys_update_name>
+            <sys_updated_by>Ncs</sys_updated_by>
+            <sys_updated_on>2020-09-18 16:49:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

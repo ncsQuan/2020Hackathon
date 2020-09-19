@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="alm_asset" label="UserEquipment" max_length="40" name="x_534819_pick_me_userequipment" sizeclass="0" type="collection"/>
+</database>

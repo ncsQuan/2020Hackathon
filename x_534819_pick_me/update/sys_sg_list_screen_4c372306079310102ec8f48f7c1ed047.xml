@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>This allows the employee to select any equipment used for remote work.</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Thumbs-Up">40372306079310102ec8f48f7c1ed042</icon>
+        <name>Equipment Selector</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 18:31:35</sys_created_on>
+        <sys_id>4c372306079310102ec8f48f7c1ed047</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Equipment Selector</sys_name>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_update_name>sys_sg_list_screen_4c372306079310102ec8f48f7c1ed047</sys_update_name>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-19 00:48:08</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=4c372306079310102ec8f48f7c1ed047"/>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>work_notes</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>590</order>
+        <record_id_field/>
+        <screen display_value="Details">8f410fc6071310102ec8f48f7c1ed0c7</screen>
+        <screen_data_item_table>alm_asset</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 15:46:04</sys_created_on>
+        <sys_id>d7414fc6071310102ec8f48f7c1ed0d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>work_notes</sys_name>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_update_name>sys_sg_screen_field_d7414fc6071310102ec8f48f7c1ed0d4</sys_update_name>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-18 15:46:04</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=d7414fc6071310102ec8f48f7c1ed0d4"/>
+</record_update>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description>List of equipment assigned to the employee</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>My equipment</name>
+        <query_condition table="alm_asset">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 23:09:00</sys_created_on>
+        <sys_id>a7a660da071710102ec8f48f7c1ed0bd</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>My equipment</sys_name>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_update_name>sys_sg_data_item_a7a660da071710102ec8f48f7c1ed0bd</sys_update_name>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-18 23:22:17</sys_updated_on>
+        <table>alm_asset</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=a7a660da071710102ec8f48f7c1ed0bd"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</application>
+        <file_path/>
+        <instance_id>45d0014fdbb28c503050ac44d496190e</instance_id>
+        <instance_name>dev100204</instance_name>
+        <name>sys_sg_data_item_a7a660da071710102ec8f48f7c1ed0bd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description>List of equipment assigned to the employee</description><group_by/><instance_relative_url_qc/><name>My equipment</name><query_condition table="alm_asset">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>Ncs</sys_created_by><sys_created_on>2020-09-18 23:09:00</sys_created_on><sys_id>a7a660da071710102ec8f48f7c1ed0bd</sys_id><sys_mod_count>4</sys_mod_count><sys_name>My equipment</sys_name><sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package><sys_policy/><sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope><sys_update_name>sys_sg_data_item_a7a660da071710102ec8f48f7c1ed0bd</sys_update_name><sys_updated_by>Ncs</sys_updated_by><sys_updated_on>2020-09-18 23:22:17</sys_updated_on><table>alm_asset</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=a7a660da071710102ec8f48f7c1ed0bd"/></record_update>]]></payload>
+        <payload_hash>-1729871731</payload_hash>
+        <record_name>My equipment</record_name>
+        <reverted_from/>
+        <source>a78047c6071310102ec8f48f7c1ed0ba</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 23:22:17</sys_created_on>
+        <sys_id>02b92c1e071710102ec8f48f7c1ed0f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174a38689b10000001</sys_recorded_at>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-18 23:22:17</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>8ab92c1ef81710103d22c8217e431cf6</update_guid>
+        <update_guid_history>8ab92c1ef81710103d22c8217e431cf6:-1729871731,c469205ea3171010a05ac691817abe76:620418682,23a660da29171010c5af19ff296695c0:-1729871731</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-19 00:20:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>5e77ed72bc8a4cc6a1f26f5f9b760b84</sys_id>
+        <sys_metadata>a7a660da071710102ec8f48f7c1ed0bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My equipment</sys_name>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_scope_delete display_value="">27d59a0de974472d93b0f8bdb5ee3b19</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_a7a660da071710102ec8f48f7c1ed0bd</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_a7a660da071710102ec8f48f7c1ed0bd">02b92c1e071710102ec8f48f7c1ed0f7</sys_update_version>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-19 00:20:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

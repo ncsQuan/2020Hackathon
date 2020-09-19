@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Asset Management" source="com.snc.asset_management">9458d2f807d310102ec8f48f7c1ed05e</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 16:25:54</sys_created_on>
+        <sys_id>7e6ac78e071310102ec8f48f7c1ed0aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-18 16:25:54</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

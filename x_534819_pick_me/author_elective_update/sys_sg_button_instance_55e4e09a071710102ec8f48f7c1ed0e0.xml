@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">91e4e09a071710102ec8f48f7c1ed0dc</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">95e4e09a071710102ec8f48f7c1ed0d9</icon>
+        <label>aChecker Launcher Button Instance</label>
+        <location>top</location>
+        <name>aChecker Launcher Button Instance</name>
+        <order/>
+        <parent>ba414786071310102ec8f48f7c1ed07a</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 23:01:12</sys_created_on>
+        <sys_id>55e4e09a071710102ec8f48f7c1ed0e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aChecker Launcher Button Instance</sys_name>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_update_name>sys_sg_button_instance_55e4e09a071710102ec8f48f7c1ed0e0</sys_update_name>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-18 23:01:12</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=55e4e09a071710102ec8f48f7c1ed0e0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</application>
+        <file_path/>
+        <instance_id>45d0014fdbb28c503050ac44d496190e</instance_id>
+        <instance_name>dev100204</instance_name>
+        <name>sys_sg_button_instance_55e4e09a071710102ec8f48f7c1ed0e0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">91e4e09a071710102ec8f48f7c1ed0dc</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="User Icon">95e4e09a071710102ec8f48f7c1ed0d9</icon><label>aChecker Launcher Button Instance</label><location>top</location><name>aChecker Launcher Button Instance</name><order/><parent>ba414786071310102ec8f48f7c1ed07a</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>Ncs</sys_created_by><sys_created_on>2020-09-18 23:01:12</sys_created_on><sys_id>55e4e09a071710102ec8f48f7c1ed0e0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>aChecker Launcher Button Instance</sys_name><sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package><sys_policy/><sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope><sys_update_name>sys_sg_button_instance_55e4e09a071710102ec8f48f7c1ed0e0</sys_update_name><sys_updated_by>Ncs</sys_updated_by><sys_updated_on>2020-09-18 23:01:12</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=55e4e09a071710102ec8f48f7c1ed0e0"/></record_update>]]></payload>
+        <payload_hash>522540921</payload_hash>
+        <record_name>aChecker Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>a78047c6071310102ec8f48f7c1ed0ba</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 23:01:12</sys_created_on>
+        <sys_id>95e4649a071710102ec8f48f7c1ed0af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174a3733c020000001</sys_recorded_at>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-18 23:01:12</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>dde4649a33171010ba230845fee2edae</update_guid>
+        <update_guid_history>dde4649a33171010ba230845fee2edae:522540921</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 23:17:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>05ad73517d01466785eb63c2a3d7c589</sys_id>
+        <sys_metadata>55e4e09a071710102ec8f48f7c1ed0e0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aChecker Launcher Button Instance</sys_name>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_scope_delete display_value="">27d59a0de974472d93b0f8bdb5ee3b19</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_55e4e09a071710102ec8f48f7c1ed0e0</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_55e4e09a071710102ec8f48f7c1ed0e0">95e4649a071710102ec8f48f7c1ed0af</sys_update_version>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-18 23:17:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

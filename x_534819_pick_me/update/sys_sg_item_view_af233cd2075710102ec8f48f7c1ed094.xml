@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>model_category.picture-42257,model_category-22124</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"Image","CellId":"model_category.picture","Height":54,"Width":51,"Scaling":"Fit","Id":42257},{"Type":"Text","Margin":{"Left":16},"Text":"PLACEHOLDER","CellId":"model_category","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":16},"Id":22124},{"Type":"Text","Margin":{},"Width":20,"Text":"","TextColor":"#a7b0b2","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":14,"Name":"icomoon"},"Id":22125}],"Id":28090,"studio_card_id":"08d93bef0f733300c46f5cbac4767e11"}</item_view_json>
+        <name>My Equipment2 Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-19 00:03:36</sys_created_on>
+        <sys_id>af233cd2075710102ec8f48f7c1ed094</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>My Equipment2 Item View</sys_name>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_update_name>sys_sg_item_view_af233cd2075710102ec8f48f7c1ed094</sys_update_name>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-19 00:16:35</sys_updated_on>
+        <table>alm_asset</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=af233cd2075710102ec8f48f7c1ed094"/>
+</record_update>
