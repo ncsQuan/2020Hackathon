@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>4c372306079310102ec8f48f7c1ed047</applets>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>vertical</orientation>
+        <required_roles>public</required_roles>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 15:46:05</sys_created_on>
+        <sys_id>ab418fc6071310102ec8f48f7c1ed0ad</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Equipment Selector</sys_name>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_update_name>sys_sg_icon_section_ab418fc6071310102ec8f48f7c1ed0ad</sys_update_name>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-18 18:31:51</sys_updated_on>
+        <table/>
+        <title>Equipment Selector</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>

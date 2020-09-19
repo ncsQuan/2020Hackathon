@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="aChecker!">ba414786071310102ec8f48f7c1ed07a</applet_launcher>
+        <icon display_value="Assets icon">0308385b1c003300964f3fc617b23a2e</icon>
+        <label>aChecker!</label>
+        <roles>public</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 15:46:02</sys_created_on>
+        <sys_id>76414786071310102ec8f48f7c1ed07b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>aChecker!</sys_name>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_76414786071310102ec8f48f7c1ed07b</sys_update_name>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-18 23:02:49</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

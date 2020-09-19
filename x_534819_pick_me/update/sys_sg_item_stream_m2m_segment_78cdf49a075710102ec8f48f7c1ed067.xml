@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="ComputerList 2 Item Stream">f0cdf49a075710102ec8f48f7c1ed056</item_stream>
+        <segment display_value="Item Stream Segment">3ccdf49a075710102ec8f48f7c1ed065</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-19 00:49:50</sys_created_on>
+        <sys_id>78cdf49a075710102ec8f48f7c1ed067</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_78cdf49a075710102ec8f48f7c1ed067</sys_update_name>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-19 00:49:50</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_534819_pick_me.unassignedcheck_user" name="x_534819_pick_me.unassignedcheck_user">5a6a4f4e071310102ec8f48f7c1ed078</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 16:25:52</sys_created_on>
+        <sys_id>2e6a4f4e071310102ec8f48f7c1ed07b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5a6a4f4e071310102ec8f48f7c1ed078</sys_name>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2e6a4f4e071310102ec8f48f7c1ed07b</sys_update_name>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-18 16:25:52</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

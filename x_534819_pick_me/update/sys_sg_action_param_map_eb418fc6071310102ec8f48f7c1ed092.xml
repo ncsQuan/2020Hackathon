@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Asset)">17418fc6071310102ec8f48f7c1ed013</button>
+        <item_parameter display_value="Asset resale_price">d3418fc6071310102ec8f48f7c1ed002</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 15:46:05</sys_created_on>
+        <sys_id>eb418fc6071310102ec8f48f7c1ed092</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d3418fc6071310102ec8f48f7c1ed002</sys_name>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_eb418fc6071310102ec8f48f7c1ed092</sys_update_name>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-18 15:46:05</sys_updated_on>
+        <ui_parameter display_value="Resale price">27418fc6071310102ec8f48f7c1ed052</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

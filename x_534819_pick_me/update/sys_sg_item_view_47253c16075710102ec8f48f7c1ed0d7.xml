@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>model_category.picture-42257,model_category-22124</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":14,"Bottom":16},"Orientation":"Horizontal","Alignment":"Top","Distribution":"Auto","Children":[{"Type":"Image","Height":48,"Width":48,"Margin":{"Right":16},"studio_template_field_id":"E1","Scaling":"Fill","CellId":"model_category.picture","Id":42257},{"Type":"Text","Margin":{"Top":13},"studio_template_field_id":"E2","TextColor":"#293e40","TextAlignment":"Left","CellId":"model_category","MaxLines":1,"Font":{"Weight":"semibold","Size":18},"Id":22124}],"Id":28090,"studio_card_id":"1207e83f0ff33300c46f5cbac4767ed2"}</item_view_json>
+        <name>My Equipment3 Header Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-19 00:12:19</sys_created_on>
+        <sys_id>47253c16075710102ec8f48f7c1ed0d7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My Equipment3 Header Item View</sys_name>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_update_name>sys_sg_item_view_47253c16075710102ec8f48f7c1ed0d7</sys_update_name>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-19 00:14:52</sys_updated_on>
+        <table>alm_asset</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=47253c16075710102ec8f48f7c1ed0d7"/>
+</record_update>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="myCompter Navigation">a21cec9e071710102ec8f48f7c1ed0b5</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label/>
+        <location>list_item</location>
+        <name/>
+        <order>10</order>
+        <parent>c7410fc6071310102ec8f48f7c1ed0cb</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 23:34:03</sys_created_on>
+        <sys_id>666ca4de071710102ec8f48f7c1ed01b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_update_name>sys_sg_button_instance_666ca4de071710102ec8f48f7c1ed01b</sys_update_name>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-19 00:47:33</sys_updated_on>
+        <table>alm_asset</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=666ca4de071710102ec8f48f7c1ed01b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</application>
+        <file_path/>
+        <instance_id>45d0014fdbb28c503050ac44d496190e</instance_id>
+        <instance_name>dev100204</instance_name>
+        <name>sys_sg_button_instance_666ca4de071710102ec8f48f7c1ed01b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="myCompter Navigation">a21cec9e071710102ec8f48f7c1ed0b5</button><color_theme>primary</color_theme><description/><field_name/><icon/><label/><location>list_item</location><name/><order>10</order><parent>c7410fc6071310102ec8f48f7c1ed0cb</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>Ncs</sys_created_by><sys_created_on>2020-09-18 23:34:03</sys_created_on><sys_id>666ca4de071710102ec8f48f7c1ed01b</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package><sys_policy/><sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope><sys_update_name>sys_sg_button_instance_666ca4de071710102ec8f48f7c1ed01b</sys_update_name><sys_updated_by>Ncs</sys_updated_by><sys_updated_on>2020-09-19 00:47:33</sys_updated_on><table>alm_asset</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=666ca4de071710102ec8f48f7c1ed01b"/></record_update>]]></payload>
+        <payload_hash>2073977435</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>a78047c6071310102ec8f48f7c1ed0ba</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-19 00:47:33</sys_created_on>
+        <sys_id>d73d709a075710102ec8f48f7c1ed08c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174a3d499da0000001</sys_recorded_at>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-19 00:47:33</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>533d709a8b571010f6f67f1ef08d2a8c</update_guid>
+        <update_guid_history>533d709a8b571010f6f67f1ef08d2a8c:2073977435,c29c28debd171010cafc9a7f784cd937:-1809634094,626ca4de70171010de386f6a00e0ea1d:491508429</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-19 00:47:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>6d2337074c23483b86a0a707636f3779</sys_id>
+        <sys_metadata>666ca4de071710102ec8f48f7c1ed01b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_scope_delete display_value="">27d59a0de974472d93b0f8bdb5ee3b19</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_666ca4de071710102ec8f48f7c1ed01b</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_666ca4de071710102ec8f48f7c1ed01b">d73d709a075710102ec8f48f7c1ed08c</sys_update_version>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-19 00:47:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

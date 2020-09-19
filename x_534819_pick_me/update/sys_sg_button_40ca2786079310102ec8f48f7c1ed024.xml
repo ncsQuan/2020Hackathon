@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button">
+    <sys_sg_button action="INSERT_OR_UPDATE">
+        <acknowledgement_confirm_label>I Agree</acknowledgement_confirm_label>
+        <allow_images_upload>false</allow_images_upload>
+        <auto_redirection>true</auto_redirection>
+        <button_table_field_name/>
+        <cancel_label/>
+        <condition table="alm_asset">model_category=c4d4fe4937101000deeabfc8bcbe5d91<item display_table="cmdb_model_category" display_value="Server" endquery="false" field="model_category" goto="false" newquery="false" operator="=" or="false" value="c4d4fe4937101000deeabfc8bcbe5d91"/>
+        </condition>
+        <condition_script/>
+        <condition_type>declarative</condition_type>
+        <confirm_label/>
+        <confirmation_message/>
+        <context>record</context>
+        <description/>
+        <destination_alp/>
+        <destination_screen display_value="Equipment Selector">4c372306079310102ec8f48f7c1ed047</destination_screen>
+        <destination_type>screen</destination_type>
+        <external_browser>false</external_browser>
+        <failure_message/>
+        <field_name/>
+        <jump_to_previous>false</jump_to_previous>
+        <jump_to_screen>false</jump_to_screen>
+        <link_label/>
+        <link_url/>
+        <mail_address/>
+        <mail_content/>
+        <mail_subject/>
+        <name>New Navigation</name>
+        <phone_number/>
+        <phone_type>cellular</phone_type>
+        <preconditions>none</preconditions>
+        <relative_url>false</relative_url>
+        <roles/>
+        <save_signature_before_action_execution>false</save_signature_before_action_execution>
+        <select_current_record>false</select_current_record>
+        <show_acknowledgement>false</show_acknowledgement>
+        <show_confirmation>false</show_confirmation>
+        <show_refresh_on_previous>false</show_refresh_on_previous>
+        <show_signature>false</show_signature>
+        <sms/>
+        <success_message/>
+        <sys_class_name>sys_sg_button</sys_class_name>
+        <sys_created_by>Ncs</sys_created_by>
+        <sys_created_on>2020-09-18 18:47:10</sys_created_on>
+        <sys_id>40ca2786079310102ec8f48f7c1ed024</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>New Navigation</sys_name>
+        <sys_package display_value="Pick Me!" source="x_534819_pick_me">a78047c6071310102ec8f48f7c1ed0b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pick Me!">a78047c6071310102ec8f48f7c1ed0b8</sys_scope>
+        <sys_update_name>sys_sg_button_40ca2786079310102ec8f48f7c1ed024</sys_update_name>
+        <sys_updated_by>Ncs</sys_updated_by>
+        <sys_updated_on>2020-09-18 18:48:35</sys_updated_on>
+        <table>alm_asset</table>
+        <take_value_from_field>true</take_value_from_field>
+        <type>redirection</type>
+        <use_overlay>false</use_overlay>
+        <write_back_action_item/>
+    </sys_sg_button>
+    <sys_translated_text action="delete_multiple" query="documentkey=40ca2786079310102ec8f48f7c1ed024"/>
+</record_update>
